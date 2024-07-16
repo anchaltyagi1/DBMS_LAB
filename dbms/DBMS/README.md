@@ -1,3 +1,3 @@
 # DBMS
-All DBMS assignment during my MCA course.
-yashodhan tyagi
+All DBMS assignments during my MCA course.
+Anchal Tyagi
